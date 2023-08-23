@@ -75,4 +75,4 @@ You have successfully set up and started the application. If you encounter any i
 
 ## OTHERS
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![Coventional commits: commitlint](https://img.shields.io/badge/Coventional_commits-commitlint-ff69b4.svg?style=flat-square)](https://www.conventionalcommits.org/)

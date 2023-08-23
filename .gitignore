@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.tmp
+.DS_Store
+.history
+coverage/
+.env
