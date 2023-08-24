@@ -1,0 +1,8 @@
+{
+  "jest.shell": "/bin/zsh",
+  "sonarlint.connectedMode.project": {
+    "connectionId": "jeresoftx",
+    "projectKey": "jeresoftx_supergraph-typescript"
+  },
+  "conventionalCommits.scopes": ["husky"]
+}
