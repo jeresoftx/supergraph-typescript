@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+.gitignore
+.history
+coverage
+docs
+*.md
+dist
+.husky
+.vscode
+docker
