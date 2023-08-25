@@ -16,6 +16,6 @@
     },
     "outDir": "./dist"
   },
-  "include": ["src/**/**.ts", "tests/**/**.ts", "playground/**/**.ts"],
+  "include": ["src/**/**.ts", "test/**/**.ts", "playground/**/**.ts"],
   "exclude": ["node_modules"]
 }

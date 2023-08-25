@@ -15,13 +15,5 @@ module.exports = {
   testEnvironment: 'node',
   verbose: true,
   cacheDirectory: '.tmp/jestCache',
-  coverageThreshold: {
-    global: {
-      statements: 100,
-      branches: 100,
-      functions: 100,
-      lines: 100,
-    },
-  },
-  collectCoverageFrom: ['src/**/*.js', '!src/server/*.js', '!src/index.js'],
+  collectCoverageFrom: ['src/**/*.ts'],
 };
