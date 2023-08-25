@@ -5,7 +5,7 @@ const root = resolve(__dirname);
 module.exports = {
   rootDir: root,
   displayName: 'integration',
-  testRegex: '/tests/integrations/.*\\.test\\.(js|ts)$',
+  testRegex: '/test/integrations/.*\\.test\\.(js|ts)$',
   moduleFileExtensions: ['js', 'ts', 'tsx', 'json', 'node'],
   testPathIgnorePatterns: ['/node_modules/'],
   moduleNameMapper: {

@@ -5,7 +5,7 @@ const root = resolve(__dirname);
 module.exports = {
   rootDir: root,
   displayName: 'test',
-  testRegex: '/tests/units/.*\\.test\\.(js|ts)$',
+  testRegex: '/test/units/.*\\.test\\.(js|ts)$',
   moduleFileExtensions: ['js', 'ts', 'tsx', 'json', 'node'],
   testPathIgnorePatterns: ['/node_modules/'],
   moduleNameMapper: {

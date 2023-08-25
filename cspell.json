@@ -1,0 +1,32 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "JWTSECRET",
+    "linebreak",
+    "pino",
+    "commitlint",
+    "supergraph",
+    "Mexia",
+    "supergraphql",
+    "Prerequisities",
+    "lcov",
+    "jeresoft"
+  ],
+  "flagWords": ["hte"],
+  "ignorePaths": [
+    "sonar-project.properties",
+    "docker/",
+    "coverage/",
+    "cspell.json"
+  ],
+  "languageSettings": [
+    {
+      "languageId": "javascript",
+      "locale": "*",
+      "ignoreRegExpList": ["/#include.*/"],
+      "dictionaries": ["javascript", "TypeScript"],
+      "dictionaryDefinitions": []
+    }
+  ]
+}

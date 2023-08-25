@@ -1,4 +1,4 @@
-# typescript-supergrapqhl
+# typescript-supergraphql
 
 [![ MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jeresoftx/supergraph-typescript/blob/main/LICENSE)
 
@@ -16,7 +16,7 @@ Docker
 
 - ### Step 1: Install Node.js v18.17.0
 
-Before you can run this project, you need to ake sure that Node.js v18.17.0 is isntalled on your computer. To install Node.js, you can download it form the official [Node.js website](https://nodejs.org/)
+Before you can run this project, you need to ake sure that Node.js v18.17.0 is installed on your computer. To install Node.js, you can download it form the official [Node.js website](https://nodejs.org/)
 
 > Alternatively, you can use a version manager like `nvm` to install Node.js. Here's how you would install Node.js v14.x using `nvm`:
 
@@ -75,4 +75,4 @@ You have successfully set up and started the application. If you encounter any i
 
 ## OTHERS
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![Coventional commits: commitlint](https://img.shields.io/badge/Coventional_commits-commitlint-ff69b4.svg?style=flat-square)](https://www.conventionalcommits.org/)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![Conventional commits: commitlint](https://img.shields.io/badge/Coventional_commits-commitlint-ff69b4.svg?style=flat-square)](https://www.conventionalcommits.org/)
