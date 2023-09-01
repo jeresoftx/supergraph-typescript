@@ -18,7 +18,8 @@
     "sonar-project.properties",
     "docker/",
     "coverage/",
-    "cspell.json"
+    "cspell.json",
+    "pnpm-lock.yaml"
   ],
   "languageSettings": [
     {
