@@ -1,0 +1,72 @@
+[
+  {
+    "_id": {
+      "$oid": "6466bc0ac1ca2e6dca0597cb"
+    },
+    "name": "permissions",
+    "description": "Call used to browse a exist permission.",
+    "createdAt": {
+      "$date": "2023-07-29T00:00:13.000Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-29T00:00:13.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6466bc0ab1ca2e6dca0597cb"
+    },
+    "name": "readPermission",
+    "description": "Call used to read a exist permission.",
+    "createdAt": {
+      "$date": "2023-07-29T00:00:13.000Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-29T00:00:13.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6466bc0aa1ca2e6dca0597ca"
+    },
+    "name": "editPermission",
+    "description": "Call used to update a exist permission.",
+    "createdAt": {
+      "$date": "2023-07-29T00:00:13.000Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-29T00:00:13.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6466bc0aa1ca2e6dca0597ce"
+    },
+    "name": "addPermission",
+    "description": "Call used to add a new permission into the database.",
+    "createdAt": {
+      "$date": "2023-07-29T00:00:13.000Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-29T00:00:13.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6466bc0aa1ca2e6dca0595cb"
+    },
+    "name": "deletePermission",
+    "description": "Call used to delete a exist permission.",
+    "createdAt": {
+      "$date": "2023-07-29T00:00:13.000Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-29T00:00:13.000Z"
+    },
+    "__v": 0
+  }
+]

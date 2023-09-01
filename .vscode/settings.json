@@ -4,5 +4,13 @@
     "connectionId": "jeresoftx",
     "projectKey": "jeresoftx_supergraph-typescript"
   },
-  "conventionalCommits.scopes": ["husky"]
+  "conventionalCommits.scopes": [
+    "husky",
+    "vscode",
+    "github",
+    "typescript",
+    "cspell",
+    "pnpm",
+    "Readme"
+  ]
 }
